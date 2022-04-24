@@ -1,0 +1,1 @@
+Doplnění těla funkcí k práci s binárním stromem - rekurzivním a iteračním způsobem.
